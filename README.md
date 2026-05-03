@@ -13,18 +13,18 @@
 
 ## 🧑‍💻 About me
 
-I'm a developer who builds full-stack products from scratch — mobile apps, web platforms, and backend APIs. I focus on clean architecture and real-world impact, not just toy projects.
+I'm a developer who builds full-stack products from scratch - mobile apps, web platforms, and backend APIs. I focus on clean architecture and real-world impact, not just toy projects.
 
-Currently working on **OinGo** — a platform for computer clubs in Kazakhstan.
+Currently working on **OinGo** - a platform for computer clubs in Kazakhstan.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 OinGo — Ecosystem for Computer Clubs
+### 🎮 OinGo - Ecosystem for Computer Clubs
 > *Full-stack product: mobile app + web admin + backend API*
 
-A complete platform for gaming clubs in Kazakhstan. Players find clubs, book sessions via QR, pay with Kaspi, order food from their PC, and squad up with friends. Club owners manage their hall in real-time — PC map, pricing, kitchen, analytics, remote device control.
+A complete platform for gaming clubs in Kazakhstan. Players find clubs, book sessions via QR, pay with Kaspi, order food from their PC, and squad up with friends. Club owners manage their hall in real-time - PC map, pricing, kitchen, analytics, remote device control.
 
 **Mobile** · `Expo SDK 54` · `React Native 0.81` · `TypeScript` · `TanStack Query` · `NativeWind` · `i18next` · `WebSocket`  
 **Admin Panel** · `Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `Recharts` · `Radix UI`  
@@ -34,10 +34,10 @@ A complete platform for gaming clubs in Kazakhstan. Players find clubs, book ses
 
 ---
 
-### 🏫 INO Center — Innovation Education Portal
+### 🏫 INO Center - Innovation Education Portal
 > *Public web portal for IITU's innovation center*
 
-A multilingual public portal for an educational innovation center at IITU. Covers courses catalog, news feed, team directory, application forms, and certificate lookup — all managed from a Django admin panel without touching frontend code.
+A multilingual public portal for an educational innovation center at IITU. Covers courses catalog, news feed, team directory, application forms, and certificate lookup - all managed from a Django admin panel without touching frontend code.
 
 **Frontend** · `React 19` · `React Router 7` · `Vite 7` · `Axios` · `i18n (RU/KK/EN)`  
 **Backend** · `Django 6` · `DRF` · `PostgreSQL` · `django-modeltranslation`
@@ -80,11 +80,8 @@ A multilingual public portal for an educational innovation center at IITU. Cover
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![ArekeZh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArekeZh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArekeZh&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ArekeZh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArekeZh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 ---
