@@ -3,48 +3,46 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Arlan%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Almaty,%20Kazakhstan&descAlignY=58&descSize=18&animation=fadeIn)
 
 [![Instagram](https://img.shields.io/badge/@rlnzhknv-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rlnzhknv)
-[![GitHub followers](https://img.shields.io/github/followers/ArekeZh?label=Followers&style=flat&color=0e75b6)](https://github.com/ArekeZh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlan-zhakanov-2a4b90327/)
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
-I'm a developer who builds full-stack products from scratch - mobile apps, web platforms, and backend APIs. I focus on clean architecture and real-world impact, not just toy projects.
+I build products end-to-end - from database schema to mobile UI. Started with small scripts, ended up architecting systems with real users. Most of my work lives at the intersection of backend logic and product thinking.
 
-Currently working on **OinGo** - a platform for computer clubs in Kazakhstan.
+Based in Almaty, currently deep into **OinGo** - a platform I'm building for computer clubs across Kazakhstan.
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🎮 OinGo - Ecosystem for Computer Clubs
-> *Full-stack product: mobile app + web admin + backend API*
+### OinGo - Platform for Computer Clubs
 
-A complete platform for gaming clubs in Kazakhstan. Players find clubs, book sessions via QR, pay with Kaspi, order food from their PC, and squad up with friends. Club owners manage their hall in real-time - PC map, pricing, kitchen, analytics, remote device control.
+Started this because existing solutions for gaming clubs in Kazakhstan were either nonexistent or terrible. Built the whole thing - a mobile app where players find clubs, book seats, pay via Kaspi, order food from their PC and hang out with friends. On the other side, club owners get a web dashboard to manage their hall in real time: PC map, pricing, kitchen orders, analytics, remote device control.
 
 **Mobile** · `Expo SDK 54` · `React Native 0.81` · `TypeScript` · `TanStack Query` · `NativeWind` · `i18next` · `WebSocket`  
 **Admin Panel** · `Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `Recharts` · `Radix UI`  
 **Backend** · `Django 6` · `DRF` · `PostgreSQL` · `Redis` · `Django Channels` · `WebSocket` · `Firebase` · `Supabase`
 
-🌐 [oingo.kz](https://oingo.kz) · 💰 KZT · 💳 Kaspi integration
+[oingo.kz](https://oingo.kz) · KZT · Kaspi integration
 
 ---
 
-### 🏫 INO Center - Innovation Education Portal
-> *Public web portal for IITU's innovation center*
+### INO Center - Portal for IITU's Innovation Center
 
-A multilingual public portal for an educational innovation center at IITU. Covers courses catalog, news feed, team directory, application forms, and certificate lookup - all managed from a Django admin panel without touching frontend code.
+A public-facing portal for the innovation center at my university. Built it so the team could manage everything - courses, news, applications, team profiles - straight from the admin panel without ever touching the frontend. Supports three languages out of the box.
 
 **Frontend** · `React 19` · `React Router 7` · `Vite 7` · `Axios` · `i18n (RU/KK/EN)`  
 **Backend** · `Django 6` · `DRF` · `PostgreSQL` · `django-modeltranslation`
 
-🌐 [ino.iitu.kz](https://ino.iitu.kz)
+[ino.iitu.kz](https://ino.iitu.kz)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
