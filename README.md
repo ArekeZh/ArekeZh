@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey, I'm Arlan 👋
-
-**Full-Stack Developer** · Almaty, Kazakhstan · IITU
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Arlan%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Almaty,%20Kazakhstan&descAlignY=58&descSize=18&animation=fadeIn)
 
 [![Instagram](https://img.shields.io/badge/@rlnzhknv-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rlnzhknv)
 [![GitHub followers](https://img.shields.io/github/followers/ArekeZh?label=Followers&style=flat&color=0e75b6)](https://github.com/ArekeZh)
@@ -77,15 +75,4 @@ A multilingual public portal for an educational innovation center at IITU. Cover
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArekeZh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArekeZh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Building things in Almaty 🇰🇿</sub>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
