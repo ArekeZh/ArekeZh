@@ -14,7 +14,7 @@
 
 I build products end-to-end — from database schema to mobile UI. I started with small scripts and grew into architecting systems used by real people. Most of my work lives at the intersection of backend logic and product thinking.
 
-Based in **Almaty, Kazakhstan**, currently deep into **OinGo** — a platform I'm building for computer clubs across Kazakhstan.
+Based in **Almaty, Kazakhstan**, currently deep into my studies and developing web products for companies.
 
 ---
 
