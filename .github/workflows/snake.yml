@@ -16,11 +16,9 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         env:
-          # snk reads process.env.GITHUB_TOKEN before the input; default Actions
-          # token misses private contribution days even when they are public on the profile.
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ArekeZh
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
