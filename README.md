@@ -84,8 +84,8 @@ Supports three languages out of the box.
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-semeikhan.vercel.app/api?username=ArekeZh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-semeikhan.vercel.app/api/top-langs/?username=ArekeZh&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img height="180" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="180" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ Supports three languages out of the box.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-semeik.vercel.app/graph?username=ArekeZh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 </p>
 
 ---
