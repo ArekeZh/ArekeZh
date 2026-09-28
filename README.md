@@ -24,7 +24,7 @@ Based in **Almaty, Kazakhstan**, currently deep into **OinGo** — a platform I'
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,py,cpp,java,postgres,mysql&theme=dark" alt="Backend skills" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,py,postgres,redis,supabase&theme=dark" alt="Backend skills" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Based in **Almaty, Kazakhstan**, currently deep into **OinGo** — a platform I'
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,reactnative,expo,tailwind&theme=dark" alt="Frontend and mobile skills" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Based in **Almaty, Kazakhstan**, currently deep into **OinGo** — a platform I'
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,bash,nginx,redis,git&theme=dark" alt="DevOps skills" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,aws,vercel,firebase,nginx,git&theme=dark" alt="DevOps and infrastructure skills" />
   </a>
 </p>
 
