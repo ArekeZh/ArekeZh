@@ -24,7 +24,7 @@ Based in **Almaty, Kazakhstan**, currently deep into **OinGo** — a platform I'
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,py,postgres,redis,supabase&theme=dark" alt="Backend skills" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,py,cpp,java,postgres,mysql&theme=dark" alt="Backend skills" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Based in **Almaty, Kazakhstan**, currently deep into **OinGo** — a platform I'
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,reactnative,expo,tailwind&theme=dark" alt="Frontend and mobile skills" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" alt="Frontend and mobile skills" />
   </a>
 </p>
 
@@ -40,36 +40,9 @@ Based in **Almaty, Kazakhstan**, currently deep into **OinGo** — a platform I'
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,aws,vercel,firebase,nginx,git&theme=dark" alt="DevOps and infrastructure skills" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,bash,nginx,redis,git&theme=dark" alt="DevOps and infrastructure skills" />
   </a>
 </p>
-
----
-
-### Projects
-
-**OinGo — Platform for Computer Clubs**
-
-I built OinGo because existing solutions for gaming clubs in Kazakhstan were either nonexistent or terrible. It includes a mobile app where players find clubs, book seats, pay via Kaspi, order food from their PC and hang out with friends.
-
-Club owners get a web dashboard to manage their hall in real time: PC map, pricing, kitchen orders, analytics and remote device control.
-
-**Mobile** · Expo SDK 54 · React Native 0.81 · TypeScript · TanStack Query · NativeWind · i18next · WebSocket  
-**Admin Panel** · Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Recharts · Radix UI  
-**Backend** · Django 6 · DRF · PostgreSQL · Redis · Django Channels · WebSocket · Firebase · Supabase
-
-[oingo.kz](https://oingo.kz/) · KZT · Kaspi integration
-
-**INO Center — Portal for IITU's Innovation Center**
-
-A public-facing portal for the innovation center at my university. The team can manage courses, news, applications and team profiles directly from the admin panel without touching the frontend.
-
-Supports three languages out of the box.
-
-**Frontend** · React 19 · React Router 7 · Vite 7 · Axios · i18n (RU / KK / EN)  
-**Backend** · Django 6 · DRF · PostgreSQL · django-modeltranslation
-
-[ino.iitu.kz](https://ino.iitu.kz/)
 
 ---
 
