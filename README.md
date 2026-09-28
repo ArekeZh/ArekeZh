@@ -92,10 +92,6 @@ Supports three languages out of the box.
   <img height="180" src="https://streak-stats.demolab.com/?user=ArekeZh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
-</p>
-
 ---
 
 ### Contribution Snake
