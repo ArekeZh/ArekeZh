@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Fullstack product engineer | Building products end-to-end</strong>
+  <strong>Fullstack developer | Machine Learning enthusiast</strong>
 </p>
 
 ---
@@ -84,8 +84,8 @@ Supports three languages out of the box.
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArekeZh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArekeZh&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-semeikhan.vercel.app/api?username=ArekeZh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-semeikhan.vercel.app/api/top-langs/?username=ArekeZh&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ Supports three languages out of the box.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArekeZh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-semeik.vercel.app/graph?username=ArekeZh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -103,9 +103,9 @@ Supports three languages out of the box.
 <!-- Appears after Actions → generate snake → Run workflow creates the output branch -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ArekeZh/ArekeZh@output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ArekeZh/ArekeZh@output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/ArekeZh/ArekeZh@output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArekeZh/ArekeZh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArekeZh/ArekeZh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -113,13 +113,14 @@ Supports three languages out of the box.
 
 ### Connect With Me
 
-- **Instagram**: [@rlnzhknv](https://www.instagram.com/rlnzhknv)
+- **E-Mail**: [areke.zhake@gmail.com](mailto:areke.zhake@gmail.com)
+- **Telegram**: [@rlnzhknv](https://t.me/rlnzhknv)
 - **LinkedIn**: [linkedin.com/in/arlan-zhakanov-2a4b90327](https://www.linkedin.com/in/arlan-zhakanov-2a4b90327/)
 
 ---
 
 <p align="center">
-  <strong>Arlan · Almaty, Kazakhstan · Fullstack Product Engineer</strong>
+  <strong>Arlan Zhakanov · Almaty, Kazakhstan · Fullstack Engineer</strong>
 </p>
 
 <p align="center">
