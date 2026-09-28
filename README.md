@@ -58,11 +58,15 @@ Based in **Almaty, Kazakhstan**, currently deep into my studies and developing w
 
 <p align="center">
   <img height="180" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-  <img height="180" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+  <img height="180" src="https://raw.githubusercontent.com/ArekeZh/ArekeZh/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits by hour" />
 </p>
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=ArekeZh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-semeik.vercel.app/graph?username=ArekeZh&theme=tokyo-night&hide_border=true&area=true" alt="Arlan Zhakanov's Contribution Graph" />
 </p>
 
 ---
